@@ -1,0 +1,88 @@
+html{ 
+   background-color: rgba(153, 228, 41, 0.501);
+}
+
+body{
+   width:800px;
+   margin:0 auto;
+}
+
+h1{
+   width: 500px;
+   margin:auto;
+   border:10px outset rgba(202, 124, 30, 0.728);
+   font-family:serif;
+   color: rgb(241, 33, 14);
+}
+h2{
+   color: rgb(190, 68, 6);
+   font-family:serif;
+   font-size: 25px;
+   margin-left:10px
+
+}
+li{
+   font-family:serif;
+}
+h3{
+   float: right;
+   font-family: serif;
+   margin-left:10px;;
+   font-size: 15px;
+
+}
+p{
+  color: rgb(201, 10, 10);
+  font-family:serif;
+  font-size: 16px;
+  margin-left:10px;
+
+}
+.YRB{
+   width: 290px;
+   float: right;
+   margin-left:40px;
+   margin-top: 30px;
+   
+}
+li{
+   margin-left:10px;
+}
+
+.TFG{   
+   width: 410px;
+   float: right;
+   margin-right:25px;
+   margin-top: 50px;
+}
+
+table,th,td{
+   border:1px solid;
+   margin-left:10px
+}
+table{
+   border-collapse: collapse;
+}
+th{
+   background-color:rgba(81, 252, 19, 0.7) ;
+   font-family:serif;
+}
+td{
+   background-color: rgba(81, 252, 19, 0.7);
+   font-family:serif;
+}
+.WED{width: 400px;
+   float: left;
+   margin-left: 200px;
+   margin-top: 10px;
+
+}
+.WAS{width: 400px;
+   font: 1em sans-serif;
+   margin-left:200px
+
+}
+.nav{
+   font: 1em sans-serif;
+   margin-left:150px;
+}
